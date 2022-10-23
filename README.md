@@ -15,3 +15,5 @@
 ![image](https://user-images.githubusercontent.com/71422855/196053144-4fd1bf00-cd10-4a0a-be28-4cb92a4d1f42.png)
 
 2022.10.23 모든 텍스쳐 추출
+![image](https://user-images.githubusercontent.com/71422855/197400967-36038277-455a-49b0-a6bf-e07c4658ce64.png)
+2022.10.24 모델도 추출
